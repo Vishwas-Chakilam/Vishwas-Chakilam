@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 👋 Hello, I'm Vishwas Chakilam!<br>I'm a third-year undergraduate student at IARE, pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in Data Science. I'm passionate about data analytics, software development, and solving complex problems through code.<br><br>🔭 I’m currently working on Weather Data Analysis and Full Stack Python Development.<br>👯 I’m looking to collaborate on data science projects and full-stack web applications.<br>🤝 I’m looking for help with improving my deep learning skills and contributing to open-source projects.<br>🌱 I’m currently learning advanced data structures and algorithms, data analytics techniques, and full-stack Python.<br>💬 Ask me about data science, Python programming, machine learning, and web development.<br>⚡ Fun fact: I love exploring new technologies and have a keen interest in understanding how data can transform decision-making processes!
 
 
