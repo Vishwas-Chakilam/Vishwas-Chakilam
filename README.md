@@ -8,10 +8,10 @@
 <img src="https://komarev.com/ghpvc/?username=Vishwas-Chakilam" alt="Profile Views" />
 
 🚀 **About Me**  
-🎓 Third-year CSE (Data Science) student at IARE, Hyderabad
-🔍 Passionate about Data Science, Web Development & Machine Learning 
-💡 Currently working on **Malicious URL Detection using ML**  
-🤝 Open to collaborations in **ML, Data Science, and Full-Stack Development**  
+🎓 Third-year CSE (Data Science) student at IARE, Hyderabad.<br>
+🔍 Passionate about Data Science, Web Development & Machine Learning <br> 
+💡 Currently working on **Malicious URL Detection using ML**  <br>
+🤝 Open to collaborations in **ML, Data Science, and Full-Stack Development**  <br>
 
 
 ## 🛠 Languages and Tools:
