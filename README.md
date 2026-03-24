@@ -6,8 +6,12 @@
 [![X](https://img.shields.io/badge/X-30302f?style=flat&logo=X)](https://x.com/vishwas_072)
 [![LeetCode](https://img.shields.io/badge/LeetCode-30302f?style=flat&logo=leetcode)](https://leetcode.com/Vishwas-1)
 [![GitHub](https://img.shields.io/badge/GitHub-30302f?style=flat&logo=github)](https://github.com/Vishwas-Chakilam)
-[![Resume badge](https://img.shields.io/badge/Download_Resume-30302f?style=flat&logo=downloads)](https://drive.google.com/file/d/1SgCj0msC9zlGUHjF6VIphzqrvBV1fnR0/view?usp=sharing)
+<a href="https://vishwas-one.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Portfolio-30302f?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+[![Resume badge](https://img.shields.io/badge/Download_Resume-30302f?style=flat&logo=downloads)](https://drive.google.com/file/d/1ksSHoV971GHVEd9T5NVTua5DjNdSoq-a/view?usp=sharing)
 <img src="https://komarev.com/ghpvc/?username=Vishwas-Chakilam" alt="Profile Views" />
+
 
 🚀 **About Me**  
 🎓 Fourth-year CSE (Data Science) student at IARE, Hyderabad.<br>
